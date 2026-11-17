@@ -52,3 +52,27 @@ not amstrong nos :  [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24,
 
 
 """
+
+
+
+"""
+Armstrong Number in a Range
+Simple definition: Find all Armstrong numbers between two given numbers.
+
+Example: 1 to 500
+
+Check numbers one by one.
+Number	Calculation	Result
+1	\(1^1=1\)	Armstrong
+2	\(2^1=2\)	Armstrong
+10	\(1^2+0^2=1\)	Not Armstrong
+153	\(1^3+5^3+3^3=153\)	Armstrong
+370	\(3^3+7^3+0^3=370\)	Armstrong
+371	\(3^3+7^3+1^3=371\)	Armstrong
+407	\(4^3+0^3+7^3=407\)	Armstrong
+
+Answer:
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 153, 370, 371, 407.
+
+"""
