@@ -22,6 +22,7 @@ Another example:
 So 76 is automorphic.
 
 '''
+
 n=int(input())
 square=n**2
 digit=len(str(n))
